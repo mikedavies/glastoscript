@@ -1,0 +1,9 @@
+<Response>
+<Say voice="alice">
+Glastonbury Ticket website appears to have been updated. Please hang up and check.
+</Say>
+<Pause length="1"/>
+<Say voice="alice">
+Glastonbury Ticket website appears to have been updated. Please hang up and check.
+</Say>
+</Response>
